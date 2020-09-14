@@ -1,9 +1,10 @@
 @font-face {
   font-family: 'iconfont';
-  src: url("../fonts/iconfontd64a.woff2?6bbhls") format("woff2");
-  font-weight: normal;
   font-style: normal;
-  font-display: swap; }
+  font-weight: normal;
+  src: local('iconfont'), url(../fonts/iconfontd64a.woff2?6bbhls) format('woff2');
+  font-display: swap;
+}
 
 .icon {
   /* use !important to prevent issues with browser extensions that change fonts */
