@@ -12740,8 +12740,8 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.eot");
-  src: url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.woff2") format("woff2"), url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.woff") format("woff"), url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.ttf") format("truetype"), url("https://imqwkn7lepgn.cdn.shift8web.ca/fonts/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+  src: url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.eot");
+  src: url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.woff2") format("woff2"), url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.woff") format("woff"), url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.ttf") format("truetype"), url("http://53842.spull.netcdn.net/fonts/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
 .fas {
